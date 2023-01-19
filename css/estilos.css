@@ -3,4 +3,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-mafufo lol
+#cabecera{
+    color: blue;
+    font: 1em sans-serif;
+}
